@@ -1,12 +1,12 @@
 {
-  "export_job_id": "820b66ea-3da4-4e0b-8eda-db583d20a5be",
+  "export_job_id": "f0466925-9623-4e31-8408-be0d40b80bf1",
   "id_short": 814917,
-  "published_at": "2026-04-19T19:13:08Z",
+  "published_at": "2026-04-23T19:14:19Z",
   "repo_name": "all-restaurants-in-bolingbrook-illinois-us-sample-814917",
   "sample_asset_name": "beamstation_814917_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/814917/beamstation_814917_restaurants-us-il_SAMPLE_DIST.csv",
   "sample_records": 4,
-  "sample_sha256": "783c89a05d0f8c70972e716a6797a88353945511f493d4ee4a290a8ec95fee78",
-  "sample_size_bytes": 26893,
-  "total_records": 48
+  "sample_sha256": "1f06943132510687f580af5f068bc4ceaad5571607414d410a0481a68a00d225",
+  "sample_size_bytes": 27351,
+  "total_records": 42
 }
