@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Bolingbrook, Illinois. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Bolingbrook, Illinois, US",
-  "export_job_id": "820b66ea-3da4-4e0b-8eda-db583d20a5be",
+  "export_job_id": "f0466925-9623-4e31-8408-be0d40b80bf1",
   "github_org": "Beamstation-Datasets",
   "id_short": 814917,
   "location_name": "Bolingbrook",
   "location_type": "city",
   "repo_name": "all-restaurants-in-bolingbrook-illinois-us-sample-814917",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/814917/beamstation_814917_restaurants-us-il_SAMPLE_DIST.csv",
-  "sample_pct": 8.33,
+  "sample_pct": 9.52,
   "sample_records": 4,
-  "sample_sha256": "783c89a05d0f8c70972e716a6797a88353945511f493d4ee4a290a8ec95fee78",
-  "sample_size_bytes": 26893,
-  "total_records": 48,
-  "updated_at": "2026-04-16T11:12:17.321238+00:00"
+  "sample_sha256": "1f06943132510687f580af5f068bc4ceaad5571607414d410a0481a68a00d225",
+  "sample_size_bytes": 27351,
+  "total_records": 42,
+  "updated_at": "2026-04-23T10:50:18.687835+00:00"
 }
